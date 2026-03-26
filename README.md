@@ -14,9 +14,7 @@ I built this because I wanted a lightweight, no-nonsense way to manage tasks wit
 
 ## 📸 Screenshots
 
-*(Hey! To make this README look awesome, just take a screenshot of your board and save it in this folder as `screenshot.png`. Below is the placeholder for it!)*
-
-![Kanban Board Overview](./screenshot.png)
+![Kanban Board Overview](./images/screenshot.png)
 
 ## 🚀 How to use it
 
